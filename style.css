@@ -17,7 +17,7 @@ ul {
 
 li {
   float: right;
-  font-size: 20px;
+  font-size: 16px;
   margin-left: 1%;
 }
 
@@ -73,7 +73,7 @@ button:focus {
 .hero-text {
   text-align: left;
   position: absolute;
-  top: 45%;
+  top: 50%;
   left: 35%;
   transform: translate(-50%,-50%);
   color: white;
@@ -100,7 +100,7 @@ font-family: 'Fjalla One', sans-serif;
 
 #aboutMe {
 line-height: 1.4;
-font-size: 20px;
+font-size: 16px;
 width: 60%;
 background-color: rgba(0,6,10,0.3);
 padding: 5px;
